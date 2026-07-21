@@ -1,0 +1,21 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#5C1626"/>
+  <g stroke="#C08497" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- mueble de la vitrina -->
+    <rect x="70" y="110" width="260" height="140" rx="2"/>
+    <path d="M70 160 H330 M70 200 H330"/>
+    <!-- vidrio superior -->
+    <path d="M85 110 L100 70 H300 L315 110"/>
+    <!-- dulces, estante superior -->
+    <ellipse cx="130" cy="150" rx="22" ry="9"/>
+    <path d="M108 150 Q130 128 152 150"/>
+    <ellipse cx="200" cy="150" rx="18" ry="8"/>
+    <path d="M182 150 Q200 132 218 150"/>
+    <ellipse cx="270" cy="150" rx="24" ry="9"/>
+    <path d="M246 150 Q270 130 294 150"/>
+    <!-- dulces, estante inferior -->
+    <ellipse cx="150" cy="190" rx="20" ry="8"/>
+    <ellipse cx="250" cy="190" rx="20" ry="8"/>
+    <path d="M195 172 v18 M195 190 h0"/>
+  </g>
+</svg>

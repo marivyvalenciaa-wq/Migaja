@@ -1,0 +1,18 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#5C1626"/>
+  <g stroke="#C08497" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- arco de entrada -->
+    <path d="M120 260 V150 Q120 90 200 90 Q280 90 280 150 V260"/>
+    <path d="M132 260 V152 Q132 102 200 102 Q268 102 268 152 V260"/>
+    <!-- piso de mosaico -->
+    <path d="M60 260 H340" />
+    <path d="M70 275 H330" opacity="0.6"/>
+    <path d="M80 290 H320" opacity="0.35"/>
+    <!-- maceta y planta -->
+    <path d="M312 260 h28 l-4 26 h-20 z"/>
+    <path d="M326 260 C314 232 320 210 326 196 M326 260 C338 234 332 210 326 196 M326 260 C326 226 326 206 326 188"/>
+    <!-- banca -->
+    <rect x="150" y="232" width="100" height="8" rx="1"/>
+    <path d="M156 240 v14 M244 240 v14"/>
+  </g>
+</svg>

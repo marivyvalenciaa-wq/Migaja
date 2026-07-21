@@ -1,0 +1,31 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="96" fill="#FAF4F0"/>
+  <circle cx="100" cy="100" r="96" fill="none" stroke="#8C2F49" stroke-width="2"/>
+  <circle cx="100" cy="100" r="86" fill="none" stroke="#C08497" stroke-width="1" stroke-dasharray="2 4"/>
+
+  <!-- espiga de trigo, izquierda -->
+  <g stroke="#8C2F49" stroke-width="1.6" fill="none" stroke-linecap="round">
+    <path d="M46 128 C46 100 52 78 60 62"/>
+    <ellipse cx="49" cy="118" rx="5" ry="8" transform="rotate(-25 49 118)" fill="#C08497" stroke="none"/>
+    <ellipse cx="43" cy="106" rx="5" ry="8" transform="rotate(-15 43 106)" fill="#C08497" stroke="none"/>
+    <ellipse cx="52" cy="98" rx="5" ry="8" transform="rotate(-35 52 98)" fill="#C08497" stroke="none"/>
+    <ellipse cx="46" cy="86" rx="5" ry="8" transform="rotate(-20 46 86)" fill="#C08497" stroke="none"/>
+    <ellipse cx="55" cy="76" rx="5" ry="8" transform="rotate(-38 55 76)" fill="#C08497" stroke="none"/>
+  </g>
+  <!-- espiga de trigo, derecha (espejo) -->
+  <g stroke="#8C2F49" stroke-width="1.6" fill="none" stroke-linecap="round">
+    <path d="M154 128 C154 100 148 78 140 62"/>
+    <ellipse cx="151" cy="118" rx="5" ry="8" transform="rotate(25 151 118)" fill="#C08497" stroke="none"/>
+    <ellipse cx="157" cy="106" rx="5" ry="8" transform="rotate(15 157 106)" fill="#C08497" stroke="none"/>
+    <ellipse cx="148" cy="98" rx="5" ry="8" transform="rotate(35 148 98)" fill="#C08497" stroke="none"/>
+    <ellipse cx="154" cy="86" rx="5" ry="8" transform="rotate(20 154 86)" fill="#C08497" stroke="none"/>
+    <ellipse cx="145" cy="76" rx="5" ry="8" transform="rotate(38 145 76)" fill="#C08497" stroke="none"/>
+  </g>
+
+  <!-- monograma -->
+  <text x="100" y="128" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-weight="700" font-size="78" fill="#5C1626">M</text>
+
+  <!-- filete inferior -->
+  <path d="M62 148 Q100 162 138 148" stroke="#8C2F49" stroke-width="1.4" fill="none" stroke-linecap="round"/>
+  <text x="100" y="172" text-anchor="middle" font-family="Georgia, serif" font-size="10.5" letter-spacing="3" fill="#8C2F49">LA MIGAJA</text>
+</svg>

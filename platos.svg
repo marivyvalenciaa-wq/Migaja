@@ -1,0 +1,17 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#5C1626"/>
+  <g stroke="#C08497" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- pila de platos -->
+    <ellipse cx="170" cy="210" rx="80" ry="16"/>
+    <ellipse cx="170" cy="196" rx="80" ry="16"/>
+    <ellipse cx="170" cy="182" rx="80" ry="16"/>
+    <ellipse cx="170" cy="182" rx="50" ry="9" opacity="0.6"/>
+    <!-- taza -->
+    <ellipse cx="300" cy="176" rx="34" ry="12"/>
+    <path d="M266 176 v14 a34 10 0 0 0 68 0 v-14"/>
+    <path d="M334 178 q20 -4 18 14 q-2 16 -18 12"/>
+    <!-- decorado floral simple -->
+    <circle cx="170" cy="182" r="5"/>
+    <path d="M160 182 q10 -10 20 0 M160 182 q10 10 20 0"/>
+  </g>
+</svg>

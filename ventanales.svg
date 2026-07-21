@@ -1,0 +1,16 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#5C1626"/>
+  <g stroke="#C08497" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- ventanal izquierdo -->
+    <path d="M100 250 V120 Q100 78 138 78 Q176 78 176 120 V250 Z"/>
+    <path d="M138 78 V250 M100 160 H176"/>
+    <!-- ventanal derecho -->
+    <path d="M224 250 V120 Q224 78 262 78 Q300 78 300 120 V250 Z"/>
+    <path d="M262 78 V250 M224 160 H300"/>
+    <!-- cortina -->
+    <path d="M92 90 q6 60 -4 160" opacity="0.7"/>
+    <path d="M308 90 q-6 60 4 160" opacity="0.7"/>
+    <!-- luz entrando -->
+    <path d="M138 250 l-18 30 M176 250 l18 30" opacity="0.5"/>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#5C1626"/>
+  <g stroke="#C08497" stroke-width="1.4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- repisas -->
+    <path d="M60 120 H340 M60 200 H340"/>
+    <path d="M64 120 v10 M336 120 v10 M64 200 v10 M336 200 v10"/>
+    <!-- sacos de harina -->
+    <path d="M90 120 v-40 q0 -10 14 -10 h20 q14 0 14 10 v40 z"/>
+    <path d="M100 82 q10 -8 20 0"/>
+    <path d="M150 120 v-30 q0 -8 12 -8 h16 q12 0 12 8 v30 z"/>
+    <!-- frascos -->
+    <ellipse cx="230" cy="80" rx="16" ry="6"/>
+    <path d="M214 80 v34 q0 6 16 6 q16 0 16 -6 v-34"/>
+    <ellipse cx="280" cy="86" rx="14" ry="5"/>
+    <path d="M266 86 v26 q0 5 14 5 q14 0 14 -5 v-26"/>
+    <!-- canela / ramitas en jarra sobre la repisa inferior -->
+    <path d="M110 200 v-24 q0 -6 10 -6 h6 q10 0 10 6 v24"/>
+    <path d="M115 170 v-10 M121 170 v-14"/>
+  </g>
+</svg>
